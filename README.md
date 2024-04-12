@@ -10,4 +10,4 @@ RimTest jest prostym programem który ułatwi ci szukanie błędów w twojej pac
 4. Pod konsolą przycisk "Save errors from console" pozwala zapisać błąd do pliku
 
 
-# Prawdopodobnie rozwój programiku będzie dalej ciągnięty o nowe funkcje, nowe lokalizacje błędów i takie tam. Na razie musi wystarczyć.
+Prawdopodobnie rozwój programiku będzie dalej ciągnięty o nowe funkcje, nowe lokalizacje błędów i takie tam. Na razie musi wystarczyć.
