@@ -16,11 +16,11 @@ Prawdopodobnie rozwój programiku będzie dalej ciągnięty o nowe funkcje, nowe
 
 #ENG
 
-**What is RimTest?
+**What is RimTest?**
 
 RimTest is a simple program that will help you look for errors in your modification package!
 
-**What do you need to work with RimTest?
+**What do you need to work with RimTest?**
 
 1. HugsLib (Or more precisely, its log extracted from the console (Left button in the console))
 2. click "Browse" and select output_log.txt (Log extracted from HugsLib
